@@ -101,6 +101,40 @@
       "notes": "Auto-imported from screener",
       "created_at": "2026-04-14T09:28:51.157875",
       "quarter": "Q2 2026"
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix",
+      "earnings_date": "2026-04-16",
+      "timing": "AMC",
+      "sector": "",
+      "screener_score": null,
+      "v4_score": null,
+      "v4_confidence": null,
+      "v4_direction": "",
+      "stage": "screener_flagged",
+      "earnings_result": {
+        "eps_actual": null,
+        "eps_estimate": null,
+        "surprise_pct": null,
+        "stock_reaction_pct": null,
+        "beat": null,
+        "selloff": null
+      },
+      "position": {
+        "entry_date": "",
+        "entry_price": null,
+        "shares": null,
+        "cost_basis": null,
+        "target_price": null,
+        "stop_loss": null,
+        "exit_date": "",
+        "exit_price": null,
+        "covered_call_income": 0
+      },
+      "notes": "",
+      "created_at": "2026-04-14T15:11:06.428745",
+      "quarter": "Q2 2026"
     }
   ],
   "settings": {
