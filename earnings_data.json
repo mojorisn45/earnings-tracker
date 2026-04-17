@@ -112,7 +112,7 @@
       "v4_score": null,
       "v4_confidence": null,
       "v4_direction": "",
-      "stage": "entry_signal",
+      "stage": "passed",
       "earnings_result": {
         "eps_actual": null,
         "eps_estimate": null,
