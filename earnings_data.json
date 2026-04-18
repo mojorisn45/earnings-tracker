@@ -78,7 +78,7 @@
       "v4_score": null,
       "v4_confidence": null,
       "v4_direction": "",
-      "stage": "watching",
+      "stage": "entry_signal",
       "earnings_result": {
         "eps_actual": null,
         "eps_estimate": null,
